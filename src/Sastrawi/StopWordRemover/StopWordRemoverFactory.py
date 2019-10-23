@@ -41,8 +41,8 @@ class StopWordRemoverFactory(object):
             'disebut','disebutkan','disebutkannya','disini','disinilah','ditambahkan','ditandaskan',
             'ditanya','ditanyai','ditanyakan','ditegaskan','ditujukan','ditunjuk','ditunjuki','ditunjukkan',
             'ditunjukkannya','ditunjuknya','dituturkan','dituturkannya','diucapkan','diucapkannya',
-            'diungkapkan','dong','dua','dulu','e','empat','enak','enggak','enggaknya','entah','entahlah',
-            'f','g','guna','gunakan','h','hadap','hai','hal','halo','hallo','hampir','hanya','hanyalah',
+            'diungkapkan','dmn','dong','dua','dulu','e','empat','enak','enggak','enggaknya','entah','entahlah',
+            'f','g','gmn','guna','gunakan','h','hadap','hai','hal','halo','hallo','hampir','hanya','hanyalah',
             'hari','harus','haruslah','harusnya','helo','hello','hendak','hendaklah','hendaknya','hingga',
             'i','ia','ialah','ibarat','ibaratkan','ibaratnya','ibu','ikut','ingat','ingat-ingat','ingin',
             'inginkah','inginkan','ini','inikah','inilah','itu','itukah','itulah','j','jadi','jadilah',
@@ -102,7 +102,7 @@ class StopWordRemoverFactory(object):
             'tertentu','tertuju','terus','terutama','tetap','tetapi','tiap','tiba','tiba-tiba','tidak',
             'tidakkah','tidaklah','tiga','toh','tuju','tunjuk','turut','tutur','tuturnya','u','ucap','ucapnya',
             'ujar','ujarnya','umumnya','ungkap','ungkapnya','untuk','usah','usai','v','w','waduh','wah','wahai',
-            'waktunya','walau','walaupun','wong','x','y','ya','yaitu','yakin','yakni','yang','z']
+            'waktunya','walau','walaupun','wong','x','y','ya','yaitu','yakin','yakni','yang','yg','z']
 
 
 
